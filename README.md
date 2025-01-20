@@ -62,7 +62,7 @@ pip install opencv-python mediapipe numpy
 Feel free to fork this project and create a pull request if you would like to contribute. Please make sure to follow the existing code style and write tests for any new functionality.
 
 ## Contact
-For any questions or feedback, feel free to reach out to [your-email@example.com](mailto:rishit.tandon.7@gmail.com).
+For any questions or feedback, feel free to reach out to [MY MAIL ID](mailto:rishit.tandon.7@gmail.com).
 
 ```
 
